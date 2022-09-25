@@ -1,4 +1,4 @@
-# Quora-Question-Pairs-Similarity
+# Quora-Question-Pair-Similarity
 Machine Learning 
 
 ## Problem Statement
