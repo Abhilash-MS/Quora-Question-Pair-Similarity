@@ -39,7 +39,8 @@ Machine Learning
 - Binary Confusion Matrix
 
 ## Machine Learning Models
- 
- ! [image](https://user-images.githubusercontent.com/114361354/192164578-af605e5f-3e39-4c02-a274-76fdb669782d.png)
+
+![image](https://user-images.githubusercontent.com/114361354/192164622-8e4de616-7987-4e3e-83b9-97625b29018f.png)
+
 
 
