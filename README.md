@@ -19,3 +19,12 @@ iii)No strict latency concerns.
 
 iv)Interpretability is partially important.
 
+## Data Overview 
+- Data will be in a file Train.csv
+
+- Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
+
+- Size of Train.csv - 60MB
+
+- Number of rows in Train.csv = 404,290
+
