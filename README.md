@@ -1,7 +1,7 @@
 # Quora-Question-Pairs-Similarity
 Machine Learning 
 
-## Problem Statement :
+## Problem Statement
 
 - dentify which questions asked on Quora are duplicates of questions that have already been asked.
 
@@ -9,7 +9,7 @@ Machine Learning
 
 - We are tasked with predicting whether a pair of questions are duplicates or not.
 
-## Real world/Business Objectives and Constraints : 
+## Real world/Business Objectives and Constraints  
 
 - The cost of a mis-classification can be very high.
 
@@ -32,7 +32,7 @@ Machine Learning
 
 - Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
 
-## Metric(s):
+## Metric(s)
 
 - log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
 
