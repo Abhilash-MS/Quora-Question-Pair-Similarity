@@ -40,6 +40,6 @@ Machine Learning
 
 ## Machine Learning Models
  
-## [image](https://user-images.githubusercontent.com/114361354/192164578-af605e5f-3e39-4c02-a274-76fdb669782d.png)
+ [image](https://user-images.githubusercontent.com/114361354/192164578-af605e5f-3e39-4c02-a274-76fdb669782d.png)
 
 
