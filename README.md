@@ -9,7 +9,7 @@ ii) This could be useful to instantly provide answers to questions that have alr
 
 iii) We are tasked with predicting whether a pair of questions are duplicates or not.
 
-# Real world/Business Objectives and Constraints : 
+## Real world/Business Objectives and Constraints : 
 
 i)The cost of a mis-classification can be very high.
 
