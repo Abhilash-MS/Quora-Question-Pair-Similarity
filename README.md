@@ -28,3 +28,13 @@ Machine Learning
 
 - Number of rows in Train.csv = 404,290
 
+## Performance Metric 
+
+- Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
+
+## Metric(s):
+
+- log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
+
+- Binary Confusion Matrix
+
