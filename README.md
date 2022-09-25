@@ -11,13 +11,13 @@ Machine Learning
 
 ## Real world/Business Objectives and Constraints : 
 
-i)The cost of a mis-classification can be very high.
+- The cost of a mis-classification can be very high.
 
-ii)You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
+- You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
 
-iii)No strict latency concerns.
+- No strict latency concerns.
 
-iv)Interpretability is partially important.
+- Interpretability is partially important.
 
 ## Data Overview 
 - Data will be in a file Train.csv
