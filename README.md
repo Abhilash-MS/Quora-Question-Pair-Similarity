@@ -38,3 +38,13 @@ Machine Learning
 
 - Binary Confusion Matrix
 
+## Machine Learning Models
++---------------------+----------------+---------------+
+|      Model Name     | Train Log Loss | Test Log Loss |
++---------------------+----------------+---------------+
+|     Random Model    |      0.88      |     00.89     |
+| Logistic Regression |      0.51      |      0.52     |
+|      Linear SVM     |      0.47      |      0.48     |
+|       XGBoost       |      0.35      |      0.35     |
++---------------------+----------------+---------------+
+
